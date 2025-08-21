@@ -62,7 +62,6 @@ Motivated and detail-oriented *Computer Science Graduate (B.Tech CSE, CGPA 8.08)
 ## 📫 Connect with Me  
 
 📍 *LinkedIn:* [linkedin.com/in/priya-sahu-243957258](https://linkedin.com/in/priya-sahu-243957258)  
-📍 *GitHub:* [github.com/PriyaSahu4012](https://github.com/PriyaSahu4012)  
 📍 *Email:* priyasahu4012@gmail.com  
 
 ---
